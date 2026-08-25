@@ -1,0 +1,82 @@
+body{
+    color:white;
+    background-color:rgb(25, 56, 36);
+}
+.Aksum img{
+    text-align: center;
+    /* display: flex; */
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left:45px;
+    border-radius:59px;
+    height:250px;
+    width:250px;
+}
+.Axum{
+    width: 600px;
+    height: 350px;
+    align-items: center;
+    /* max-width: 100%;
+    border-radius: 20px; */
+}
+.monument{
+    width: 400px;
+    height: 300px;
+}
+.aksumite{
+    width: 400px;
+    height: 300px;
+}
+.zion{
+    width: 400px;
+    height: 350px;
+}
+.Fasil{
+    width:600px;
+    height:300px;
+}
+.church{
+    width: 500px;
+    height: 300px;
+}
+.Timket{
+  width: 500px;
+    height:300px;
+}
+.Castle{
+  width: 500px;
+    height: 300px;
+}
+.lalibela{
+    width:700px;
+    height:auto;
+    border-radius:3px;
+}
+.celeb{
+    width:500px;
+    height:393px;
+}
+.aksum img{
+    width:200px;
+    height: 250px;
+}
+.Ertale img{
+    /* display: flex; */
+    flex-wrap:wrap;
+    width:320px;
+    height:280px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:100px;
+    padding:40px;
+    border-radius: 69px;
+}
+.Gondar img{
+    width:304px;
+    height:250px;
+    margin:2px;
+    border-radius:52px;
+}
+a{
+    color:white;
+}

@@ -1,0 +1,50 @@
+.foodtype {
+    position: relative;
+    width: 330px;
+    height:auto;
+    overflow: hidden;
+    border-radius: 20px;
+    margin:33px;
+}
+.tibs{
+    width:310px;
+    height:230px;
+}
+.beyaynetu{
+    width:353px;
+    height:300px;
+}
+.foodtype img {
+    width: 100%;
+    display: block;
+}
+.foodinfo {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(7, 0, 0, 0.7);
+    color: white;
+    padding:19px;
+    transform: translateY(73%);
+    transition: 2s;
+}
+.foodtype:hover .foodinfo {
+    transform: translateY(0);
+}
+.foodcontainer{
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+body{
+       background-color: rgb(15, 35, 23);
+}
+.home{
+    color:white;
+    margin:30px;
+    font-size: 21.5px;
+}
+h1{
+    color:rgb(220, 218, 218);
+}

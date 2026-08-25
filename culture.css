@@ -1,0 +1,86 @@
+body{
+    background-color:rgb(21, 48, 32);
+    color:white;
+}
+.tigre{
+    height:280px;
+}
+.dire{
+    height:280px;
+}
+.hair{
+    height:280px;
+}
+.wolaita{
+    height:280px;
+}
+.jano{
+     height:226px;
+}
+.somali{
+     height:261px;
+}        
+.cloth img{
+    /* display:flex; */
+    /* align-items: center; */
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    width:200px;
+    margin:18px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius:6px;
+    /* .tigre{
+        width:300px;
+        height:200px;
+    } */
+}
+.festiv img{
+    width:300px;
+    margin:3px;
+    border-radius:6px;
+    /* justify-content: space-evenly; */
+    /* align-items:center; */
+}
+.lali{
+    height:230px;
+}
+.ash{
+    height:230px
+}
+.buhe{
+    height:230px;
+}
+.coffee img{
+    /* display:flex; */
+    justify-content: space-evenly;
+    border-radius: 6px;
+    height:400px;
+    width:auto;
+    margin:40px;
+    border-radius:6px;
+}
+/* .kafa{
+    height:500px;
+    width:400px;
+    border-radius: 6px;
+} */
+ .craft img{
+    /* display:flex; */
+    width:300px;
+    height:350px;
+    justify-content: space-evenly;
+    border-radius: 6px;
+     margin:40px;
+ }
+.home img{
+      width:315px;
+    height:350px;
+    justify-content: space-evenly;
+    border-radius: 6px;
+    margin:40px;
+    border-radius:6px;
+}
+a{
+    color:white;
+}
